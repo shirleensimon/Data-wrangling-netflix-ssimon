@@ -10,12 +10,13 @@ It includes cleaning, transforming, and organizing the data to prepare it for an
 
 Data-wrangling-netflix-ssimon/
 ├── data/
-│ ├── netflix_titles.csv.zip # Raw dataset
-│ └── cleaned_netflix.csv # Cleaned dataset (output)
+│   ├── netflix_titles.csv.zip         # Raw dataset
+│   └── cleaned_netflix.csv            # Cleaned dataset (output)
 ├── notebooks/
-│ └── netflix-shirleen.ipynb # Main notebook with wrangling process
+│   └── netflix-shirleen.ipynb         # Main notebook with wrangling process
 ├── README.md
 ├── requirements.txt
+
 
 
 ---
@@ -49,15 +50,16 @@ Launch the notebook:
 
 jupyter notebook notebooks/netflix-shirleen.ipynb
 
+
 ✅ Output
 cleaned_netflix.csv: The final cleaned dataset ready for EDA or modeling.
 
 📌 Future Work
-Perform exploratory data analysis (EDA)
+-Perform exploratory data analysis (EDA)
 
-Visualize key trends in the cleaned dataset
+-Visualize key trends in the cleaned dataset
 
-Build recommendation or classification models (optional)
+-Build recommendation or classification models (optional)
 
 📜 License
 This project is licensed under the MIT License.
