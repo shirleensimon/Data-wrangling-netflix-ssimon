@@ -41,8 +41,12 @@ It includes cleaning, transforming, and organizing the data to prepare it for an
 
 1. Install the required packages:
 
-   ```bash
-   pip install -r requirements.txt
+-pandas
+-numpy
+-jupyter
+-matplotlib
+-seaborn
+
 
 Launch the notebook:
 
