@@ -55,6 +55,7 @@ jupyter notebook notebooks/netflix-shirleen.ipynb
 cleaned_netflix.csv: The final cleaned dataset ready for EDA or modeling.
 
 📌 Future Work
+
 -Perform exploratory data analysis (EDA)
 
 -Visualize key trends in the cleaned dataset
