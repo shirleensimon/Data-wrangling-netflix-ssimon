@@ -64,8 +64,7 @@ cleaned_netflix.csv: The final cleaned dataset ready for EDA or modeling.
 
 -Build recommendation or classification models (optional)
 
-📜 License
-This project is licensed under the MIT License.
+
 
 
 
