@@ -6,16 +6,14 @@ It includes cleaning, transforming, and organizing the data to prepare it for an
 
 ---
 
+
 ## 📁 Project Structure
 
-Data-wrangling-netflix-ssimon/
-├── data/
-│ ├── netflix_titles.csv.zip # Raw dataset
-│ └── cleaned_netflix.csv # Cleaned dataset (output)
-├── notebooks/
-│ └── netflix-shirleen.ipynb # Main notebook with wrangling process
-├── README.md
-├── requirements.txt
+- `data/` (contains `netflix_titles.csv.zip`, `cleaned_netflix.csv`)
+- `notebooks/` (contains `netflix-shirleen.ipynb`)
+- `README.md`
+- `requirements.txt`
+
 
 
 
