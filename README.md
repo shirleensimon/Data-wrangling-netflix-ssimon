@@ -10,10 +10,10 @@ It includes cleaning, transforming, and organizing the data to prepare it for an
 
 Data-wrangling-netflix-ssimon/
 ├── data/
-│   ├── netflix_titles.csv.zip         # Raw dataset
-│   └── cleaned_netflix.csv            # Cleaned dataset (output)
+│ ├── netflix_titles.csv.zip # Raw dataset
+│ └── cleaned_netflix.csv # Cleaned dataset (output)
 ├── notebooks/
-│   └── netflix-shirleen.ipynb         # Main notebook with wrangling process
+│ └── netflix-shirleen.ipynb # Main notebook with wrangling process
 ├── README.md
 ├── requirements.txt
 
