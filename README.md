@@ -64,6 +64,9 @@ cleaned_netflix.csv: The final cleaned dataset ready for EDA or modeling.
 
 -Build recommendation or classification models (optional)
 
+## 🔚 Conclusion
+
+The Netflix data wrangling project involved cleaning and transforming the dataset to handle missing values, standardize formats, and prepare it for analysis. This process ensured data consistency and reliability, laying a strong foundation for meaningful insights in future exploratory or modeling tasks.
 
 
 
